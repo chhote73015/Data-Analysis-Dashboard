@@ -28,5 +28,11 @@ The Gupta Store wants to create an annual sales report for 2022. So that owner o
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 
+  ## Dashboard
+![Gupta Store Dashboard](https://github.com/user-attachments/assets/7be66906-f316-44f6-8408-1f97a854cad8)
+
+  
+
+
 
   
