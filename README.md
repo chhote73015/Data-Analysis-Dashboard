@@ -17,8 +17,8 @@ The Gupta Store wants to create an annual sales report for 2022. So that owner o
 - Highest Selling category?
 - Percentage of Total Orders Deliverd
 
-  ## Dataset used
-  - <a href="https://github.com/rishabhnmishra/Excel_Vrinda_Store_Analysis/commit/c86394f87f0a5e71ccf3095ed31d9480ff4d4218">Dataset</a>
+
+- Dashboard Interaction  <a href="https://github.com/rishabhnmishra/Excel_Vrinda_Store_Analysis/commit/c86394f87f0a5e71ccf3095ed31d9480ff4d4218">Dataset</a>
 
 
 ## Process
