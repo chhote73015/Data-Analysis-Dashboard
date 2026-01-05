@@ -18,7 +18,7 @@ The Gupta Store wants to create an annual sales report for 2022. So that owner o
 - Percentage of Total Orders Deliverd
 
 
-- Dashboard Interaction  <a href="https://github.com/rishabhnmishra/Excel_Vrinda_Store_Analysis/commit/c86394f87f0a5e71ccf3095ed31d9480ff4d4218">Dataset</a>
+- Dashboard Interaction  <a href="https://github.com/ritikbh193/Vrinda-Store-Data-Analysis/blob/main/Dashboard_Image.png">Dataset</a>
 
 
 ## Process
@@ -26,5 +26,7 @@ The Gupta Store wants to create an annual sales report for 2022. So that owner o
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+
 
   
